@@ -1,0 +1,16 @@
+{
+  "name": "bet-scrape",
+  "version": "1.0.0",
+  "description": "bet scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Git",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.1.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
